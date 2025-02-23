@@ -1,0 +1,19 @@
+{
+    "name": "mhdy/ollyo",
+    "autoload": {
+        "psr-4": {
+            "Mhdy\\Ollyo\\": "src/"
+        },
+        "files": [
+            "app/Helpers/helpers.php",
+            "app/Helpers/events.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "MahedyHasan0017",
+            "email": "mhdyhasanpust017@gmail.com"
+        }
+    ],
+    "require": {}
+}
